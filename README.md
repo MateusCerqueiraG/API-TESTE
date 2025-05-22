@@ -51,6 +51,7 @@ Exemplo de corpo da requisição (JSON):
 Remove um agendamento com o ID especificado.
 
 🛠 Tecnologias
+
 Node.js
 
 Express
