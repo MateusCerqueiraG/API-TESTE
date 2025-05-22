@@ -14,7 +14,7 @@ npm install
 ```
 3. Inicie o servidor
 ```
-npm start
+node index.js
 ```
 O servidor será iniciado em:
 📍 http://localhost:3000
